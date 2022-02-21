@@ -33,4 +33,4 @@ Language : [Python](www.python.org)
 Developer : @jettastic
 """
 
-BUTTONS = True
+BUTTONS = False
