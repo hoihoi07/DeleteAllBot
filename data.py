@@ -24,7 +24,7 @@ ABOUT = """
 
 A telegram bot to delete all messages
 
-Channel : [Click Here](https://t.me/jettastic)
+Channel : [Jetbots](https://t.me/jetbots)
 
 Framework : [Pyrogram](docs.pyrogram.org)
 
